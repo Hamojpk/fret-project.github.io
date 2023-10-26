@@ -1,6 +1,8 @@
 
 # Fret Experiment Data
 
+## Due to intellectual property reasons, the code or program of this work cannot be open-sourced
+
 ## Target Websites
 
 | Web app type          | Web name                      | URL                        |
@@ -86,38 +88,38 @@ The example test scripts we use are put on [./ExampleTests](https://github.com/f
 
 |web app type	|random deduplication<br>sequence number 	|random redundancy<br>sequence number	|coloring deduplication<br>sequence number|
 |:---------------------:|:---------:|:-------------:|:--:|
-|Accommodation	|66	|7	|63|
-|Advertising	|296	|113	|372|
-|Airlines	|92	|36	|109|
-|Banking	|81	|53	|102|
-|Beauty	|135	|14	|138|
-|Computer software	|269	|34	|289|
-|Distance learning	|65	|57	|93|
-|E-commerce	|62	|29	|89|
-|Education	|106	|77	|162|
-|Entertainment	|274	|27	|341|
-|Fashion	|194	|14	|197|
-|Finance	|203	|23	|213|
-|Food and Beverages	|224	|84	|289|
-|Games	|50	|6 |52|
-|Health	|36	|45	|74|
-|Information technology	|13	|8	|20|
-|Insurance	|269	|42	|292|
-|Investment	|50	|8	|55|
-|Jobs	|94	|24	|119|
-|Market research	|152	|15	|161|
-|Music	|68	|13	|81|
-|News and Media	|234	|38	|236|
-|Online services	|67	|19	|84|
-|Real estate	|117	|15	|123|
-|Restaurants	|89	|37	|125|
-|Science	|31	|20	|42|
-|Sports	|107	|17	|96|
-|Telecom	|51	|12	|59|
-|Transportation	|100	|14	|105|
-|Travel and Tourism	|96	|39	|121|
-|Vehicles	|71	|16	|85|
-|Wellness	|38	|27	|52|
+|Accommodation	        |66	        |7	            |63  |
+|Advertising	          |296	      |113	          |372 |
+|Airlines	              |92	        |36            	|109 |
+|Banking	              |81	        |53	            |102 |
+|Beauty	                |135	      |14	            |138 |
+|Computer software	    |269	      |34	            |289 |
+|Distance learning	    |65	        |57	            |93  |
+|E-commerce	            |62	        |29	            |89  |
+|Education	            |106	      |77	            |162 |
+|Entertainment	        |274      	|27	            |341 |
+|Fashion	              |194	      |14	            |197 |
+|Finance	              |203	      |23	            |213 |
+|Food and Beverages	    |224	      |84	            |289 |
+|Games	                |50	        |6              |52  |
+|Health	                |36	        |45            	|74  |
+|Information technology	|13	        |8	            |20  |
+|Insurance	            |269	      |42            	|292 |
+|Investment	            |50	        |8	            |55  |
+|Jobs	                  |94	        |24	            |119 |
+|Market research	      |152	      |15	            |161 |
+|Music	                |68	        |13	            |81  |
+|News and Media	        |234	      |38	            |236 |
+|Online services	      |67	        |19	            |84  |
+|Real estate	          |117	      |15	            |123 |
+|Restaurants	          |89	        |37	            |125 |
+|Science	              |31	        |20	            |42  |
+|Sports	                |107	      |17	            |96  |
+|Telecom	              |51	        |12	            |59  |
+|Transportation	        |100	      |14	            |105 |
+|Travel and Tourism	    |96	        |39	            |121 |
+|Vehicles	              |71	        |16	            |85  |
+|Wellness	              |38	        |27	            |52  |
 
 
 
